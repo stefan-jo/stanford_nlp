@@ -4,5 +4,5 @@ I created this repo to collect resources I used for hosting the [TWIML](https://
 
 This repo includes:
 - List of [recommended material](https://github.com/stefan-jo/stanford_nlp/blob/master/resources.md) for further reading, viewing or listening...
-- My code from porting Andrej Karpathy's mini character RNN from numpy to Pytorch
+- My code from rewriting [Andrej Karpathy's mini character RNN](https://gist.github.com/karpathy/d4dee566867f8291f086) from numpy to Pytorch
 
