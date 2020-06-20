@@ -34,7 +34,7 @@ Papers:
 - ULMFit paper: https://arxiv.org/abs/1801.06146
 - AWD-LSTM: https://arxiv.org/abs/1708.02182
 - SHA-RNN: https://arxiv.org/abs/1911.11423
-- GPT-2: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+- GPT-2: https://openai.com/blog/better-language-models/#sample2
 - GPT-3: https://arxiv.org/abs/2005.14165
 
 Other: 
