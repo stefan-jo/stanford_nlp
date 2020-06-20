@@ -24,7 +24,7 @@ Blogposts:
 - Andrew Karpathy - unreasonable effectiveness of RNNs:  http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Chris Olah - understanding LSTMs: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - Distill.pub - memorization in LSTMs: https://distill.pub/2019/memorization-in-rnns/
-- Open AI - better LMs and their implications: https://openai.com/blog/better-language-models/#sample1
+- Open AI - better LMs and their implications: https://openai.com/blog/better-language-models/
 
 Official tutorials:
 - PyTorch: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
@@ -34,7 +34,6 @@ Papers:
 - ULMFit paper: https://arxiv.org/abs/1801.06146
 - AWD-LSTM: https://arxiv.org/abs/1708.02182
 - SHA-RNN: https://arxiv.org/abs/1911.11423
-- GPT-2: https://openai.com/blog/better-language-models/#sample2
 - GPT-3: https://arxiv.org/abs/2005.14165
 
 Other: 
