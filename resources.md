@@ -6,7 +6,6 @@ Videos:
 - fastai NLP course lesson 11 (Understanding RNNs): https://www.youtube.com/watch?v=l1rlFh0PmZw
 - fastai NLP course lesson 15 (Implementing a GRU): https://www.youtube.com/watch?v=Bl6WVj6wQaE
 - Berkeley Deep Unsupervisde Learning lesson 11 (LMs): https://www.youtube.com/watch?v=BnpB3GrpsfM&t=10s
-- Illustrated guide to LSTMs and GRUs: https://www.youtube.com/watch?v=8HyCNIVRbSU&t=12s
 	
 	
 TWIML content:
@@ -26,6 +25,7 @@ Blogposts:
 - Chris Olah - understanding LSTMs: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - Distill.pub - memorization in LSTMs: https://distill.pub/2019/memorization-in-rnns/
 - Open AI - better LMs and their implications: https://openai.com/blog/better-language-models/
+- Illustrated Guide to LSTMs and GRUs: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 Official tutorials:
 - PyTorch: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
