@@ -5,7 +5,7 @@ Videos:
 - fastai NLP course lesson 8 (Intro to language modeling): https://www.youtube.com/watch?v=PNNHaQUQqW8
 - fastai NLP course lesson 11 (Understanding RNNs): https://www.youtube.com/watch?v=l1rlFh0PmZw
 - fastai NLP course lesson 15 (Implementing a GRU): https://www.youtube.com/watch?v=Bl6WVj6wQaE
-- Berkeley Deep Unsupervisde Learning lesson 11 (LMs): https://www.youtube.com/watch?v=BnpB3GrpsfM&t=10s
+- Berkeley Deep Unsupervised Learning lesson 11 (LMs): https://www.youtube.com/watch?v=BnpB3GrpsfM&t=10s
 	
 	
 TWIML content:
