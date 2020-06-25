@@ -4,6 +4,7 @@ Videos:
 - Stanford CS231n 2017 lecture 10 (RNNs): https://www.youtube.com/watch?v=6niqTuYFZLQ&t=1656s
 - fastai NLP course lesson 8 (Intro to language modeling): https://www.youtube.com/watch?v=PNNHaQUQqW8
 - fastai NLP course lesson 11 (Understanding RNNs): https://www.youtube.com/watch?v=l1rlFh0PmZw
+- fastai NLP course lesson 15 (Implementing a GRU): https://www.youtube.com/watch?v=Bl6WVj6wQaE
 - Berkeley Deep Unsupervisde Learning lesson 11 (LMs): https://www.youtube.com/watch?v=BnpB3GrpsfM&t=10s
 - Illustrated guide to LSTMs and GRUs: https://www.youtube.com/watch?v=8HyCNIVRbSU&t=12s
 	
@@ -32,6 +33,7 @@ Official tutorials:
 
 Papers:
 - ULMFit paper: https://arxiv.org/abs/1801.06146
+- original LSTM paper: https://www.bioinf.jku.at/publications/older/2604.pdf
 - AWD-LSTM: https://arxiv.org/abs/1708.02182
 - SHA-RNN: https://arxiv.org/abs/1911.11423
 - GPT-3: https://arxiv.org/abs/2005.14165
