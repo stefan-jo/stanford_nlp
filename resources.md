@@ -1,4 +1,4 @@
-Videos:
+Lectures:
 - Stanford CS224n 2017 lecture 8 (RNNs): https://www.youtube.com/watch?v=Keqep_PKrY8&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=8
 - Stanford CS231n 2016 lecture 10 (RNNs): https://www.youtube.com/watch?v=yCC09vCHzF8
 - Stanford CS231n 2017 lecture 10 (RNNs): https://www.youtube.com/watch?v=6niqTuYFZLQ&t=1656s
@@ -23,20 +23,23 @@ Notebooks:
 Blogposts:
 - Andrew Karpathy - unreasonable effectiveness of RNNs:  http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Chris Olah - understanding LSTMs: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- Michael Phi - Illustrated Guide to LSTMs and GRUs: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 - Distill.pub - memorization in LSTMs: https://distill.pub/2019/memorization-in-rnns/
 - Open AI - better LMs and their implications: https://openai.com/blog/better-language-models/
-- Illustrated Guide to LSTMs and GRUs: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 Official tutorials:
 - PyTorch: https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 - Tensorflow: https://www.tensorflow.org/guide/keras/rnn
 
 Papers:
-- ULMFit paper: https://arxiv.org/abs/1801.06146
 - original LSTM paper: https://www.bioinf.jku.at/publications/older/2604.pdf
+- original GRU paper: https://arxiv.org/abs/1406.1078
+- ULMFit paper: https://arxiv.org/abs/1801.06146
 - AWD-LSTM: https://arxiv.org/abs/1708.02182
 - SHA-RNN: https://arxiv.org/abs/1911.11423
 - GPT-3: https://arxiv.org/abs/2005.14165
 
 Other: 
 - Write with transformer: https://transformer.huggingface.co/doc/gpt2-large
+- Eigenvalues explained (video): https://www.youtube.com/watch?v=G4N8vJpf7hM&t=199s
+- L2 norm definition: https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-73003-5_1070#:~:text=L2%20norm%20is%20a%20standard,the%20values%20in%20each%20dimension.
