@@ -23,6 +23,7 @@ Notebooks:
 Blogposts:
 - Andrew Karpathy - unreasonable effectiveness of RNNs:  http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Chris Olah - understanding LSTMs: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- Michael Phi - Illustrated Guide to RNNs: https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9
 - Michael Phi - Illustrated Guide to LSTMs and GRUs: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 - Distill.pub - memorization in LSTMs: https://distill.pub/2019/memorization-in-rnns/
 - Open AI - better LMs and their implications: https://openai.com/blog/better-language-models/
